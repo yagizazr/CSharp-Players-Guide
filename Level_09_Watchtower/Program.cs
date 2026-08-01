@@ -1,4 +1,4 @@
-﻿
+
 
 Console.Write("Please enter a x value: ");
 int x = Convert.ToInt32(Console.ReadLine());
@@ -56,3 +56,4 @@ else {
 }
 
 Console.ReadKey();
+
